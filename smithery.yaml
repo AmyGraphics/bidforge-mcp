@@ -1,0 +1,21 @@
+name: bidforge-mcp
+displayName: BidForge - Autonomous Freelance RFP, Upwork Proposals & Scope Engine MCP
+description: Universal proposal generation, RFP bidding & scope estimation engine for Cursor, Claude Code & Windsurf. Generates high-converting psychological cover letters, estimates development hours and milestone budgets, audits client red-flag risks, and produces GitHub bounty solutions.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/bidforge-mcp
+repository: https://github.com/AmyGraphics/bidforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/bidforge-mcp/main/icon.png
+keywords:
+  - freelancing
+  - upwork
+  - rfp-proposals
+  - client-proposals
+  - scope-estimation
+  - milestone-budget
+  - github-bounties
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://bidforge-api.agentweb-hub.workers.dev/mcp
